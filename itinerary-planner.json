@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "itinerary-planner-d6bf7",
+  "private_key_id": "ac3a7238e63450078cefcf14943b0873f1684bba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+pKyThqSYexEd\ngrJbgYkd2hAiPRq1UFUHw8c1XNq5JXfpn2ZFqv2ISyU32lSFK3btxyFQlqTzDt0p\nBMsZhWHE5qSuEWoXzir9bZuqFBNE8Bem0MbaKdJqGm3CTZYYQKcmEidvkvo+lMKw\nFoqwb8FNSvxwgzQs7hHVQOnmFMVGfvnlG6MhfIN494z0mEnHlMnLN8QkUfzw/JFW\nBZmoAyFgxZlYZ2NSXeSCsSgal1hAsuOn+kFYVbGsa4FU1UYSRGl0CacdyLMymHYu\nn2dUxPH1eaEQWusEln2+T3hhJF1xBJllGLPhuDSaXbe38B8ogc6IZeJkYdKoGYkB\nF/uwwVdtAgMBAAECggEAECC9wcg+9fBZWRIEtTWO7EHVohPhxct7OgovuN23Wjjn\nfVHhFM07oBNdXW2Av3hXGhQBxz/LSg2sm4r+hJTyWbY6Ychy3XsxS1nBtMB4hdk6\n4v+gBvZJSPUd6nVmWHxlt5SLFgcM2Qz8MGnjxzvZEkkg9ILA//kO9KfGcdK5grZX\nWTeETvZSmQeWdQxqvw9hPMFZXSrtQaWP04gUfhPf7EBmm+vXmDGm7hqkLvCm56Cn\nMK6sUJYcG8phjbAgpdxo3QywO1pUGZXBEwilVnc5Zm7oIdu2Sb5PTjWtDfI6ufa2\n8vQZiPa1kHfxLeZVCS28ukHfK6pRl1SGYxMw8qNCsQKBgQDijpWNO1k0tXVws0o+\nUZefzKY1iFvRneACL3ZsEgcQbNDLvfbf+SdcrOakz9BRuqn/v3QPfVUe6xM5oEZl\ngs7PaSBlpm9wAz5OQJf/HwMD/PVm/KbTWALhY7oPHGmFQz1bheLRuevMflQqOe0k\nEZZAN22kZFkrBVikIQ5VnOZf3QKBgQDXa0MY9X8KgJf2en9DnvxOwRKJ3TQag5Fn\nVTMGeCC0ip5WWBnvqM43x93G98OmgOI3aPOsYK3psaJ3PPt2fN8oFlBQh09/sy+B\nyFc/bugQXPQsMIAJPy+bc9pq4/WO50MGzTwp4j/LS2Zj4p/KYxVBXhz3IgemdoZn\nmb7qRdok0QKBgFI4PL4Mk8s1L3G/H2qOYeB0fL1gxzHDgdBJOUjvIfEsDHpkbnvK\nCCbx+KJHaOrAO4G9EXmtmn6mAUwghmvAlR1goYlCZZ7ZDnuHpaHIt2dzHfxKJKD+\nh80UTCm/vevHAzV72V0ThCeqkRDiBNXaLBUSCJBoepPKVOj7tiAL2O9hAoGATi8l\n+ScQ5tTpUpH/IqHPXR4CBnt8b6sU2PY5QL3U0PIGqbvsHemcfu5Rdedy4Tmh4Q58\ncjHcrRbFqpU9hzGnJLuEhtW1atm0AlyeHe242EeEb41iyvhd5QPVYDpAY49X6l4O\n2fy9vqEtFk+oQyJXEpR/2spFEIuwGGXavth/ZiECgYAw/7zTUmKEKIRN5SVLrLrs\niRR08fzZ0Re6El6qcMz+wKX7DCd+V9QhCKJB/lhGv06x/P3uoziOl4FWUaxIeJuK\n2JyQ95n35TkkhAC3PygcyzDS2HJ4x5vIbvvJ3GTexvZIMvhsBcbvsV8YWfPHdWLr\nXw+NpC+VE3tmJgLte4hWKQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-5i08w@itinerary-planner-d6bf7.iam.gserviceaccount.com",
+  "client_id": "102329628246846264433",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-5i08w%40itinerary-planner-d6bf7.iam.gserviceaccount.com"
+}
